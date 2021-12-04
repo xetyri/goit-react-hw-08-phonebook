@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.name {
+  color: #e40101;
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.login {
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px;
+  font-weight: 500;
+  color: #472a09;
+  font-size: 20px;
+  transition: all 250ms linear;
+}
